@@ -1,0 +1,2 @@
+//Ignorar todos os diretórios node_modules em qualquer lugar no repositório
+node_modules/
